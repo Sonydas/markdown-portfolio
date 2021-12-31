@@ -1,2 +1,2 @@
 *GitHUB is awesome*
--Its ery useful-
+-Its very useful-
